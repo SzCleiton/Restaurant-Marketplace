@@ -1,4 +1,4 @@
-package com.fernandakipper.desafioanotaai.utils;
+package com.szcleiton.desafioanotaai.utils;
 
 import java.util.ArrayList;
 import java.util.List;

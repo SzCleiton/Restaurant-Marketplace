@@ -1,4 +1,4 @@
-package com.fernandakipper.desafioanotaai;
+package com.szcleiton.desafioanotaai;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

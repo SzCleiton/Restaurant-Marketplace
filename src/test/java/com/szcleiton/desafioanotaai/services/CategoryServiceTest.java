@@ -1,4 +1,4 @@
-package com.fernandakipper.desafioanotaai.services;
+package com.szcleiton.desafioanotaai.services;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
@@ -18,8 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import static com.fernandakipper.desafioanotaai.utils.MockCategories.*;
-import static com.fernandakipper.desafioanotaai.utils.MockCategories.mockCategoryEntity;
+import static com.szcleiton.desafioanotaai.utils.MockCategories.*;
 import static org.junit.jupiter.api.Assertions.*;
 import static org.mockito.ArgumentMatchers.any;
 import static org.mockito.Mockito.times;
